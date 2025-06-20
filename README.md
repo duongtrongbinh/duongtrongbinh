@@ -38,7 +38,7 @@ I'm a passionate **Full-Stack Developer** with over **2++ years of professional 
 ## 🛠 Featured Projects
 
 ### 🛒 SmartCommerce
-**Tech**: Laravel 12, Vue (Nuxt 3), TypeScript, MongoDB, Sepay, PayPal, GHN API  
+**Tech**: Laravel 12, Vue (Nuxt 3), TypeScript, MySql, MongoDB, Sepay, PayPal, GHN API  
 **Description**: A robust e-commerce platform for seamless online business, featuring Vietnam-specific payments via Sepay,
  international transactions with PayPal, and logistics integration with GHN API. 
  Built with a modular Laravel backend and Nuxt 3/Vue frontend, it supports user, guest, and admin interfaces, 
