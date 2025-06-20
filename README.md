@@ -1,6 +1,6 @@
 # Hi, I'm Duong Trong Binh 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=1E90FF&lines=Full-Stack+Developer;Building+Scalable+Web+&+Desktop+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=1E90FF&lines=Full-Stack+Developer)
 
 I'm a passionate **Full-Stack Developer** with over **2++ years of professional experience**, specializing in **Laravel**, **Vue.js**. I craft modern, scalable, and user-friendly web, with a focus on performance and efficiency. Currently, I'm a Full-Stack Developer at **Kiaisoft VN**, where I build robust solutions to empower businesses.
 
