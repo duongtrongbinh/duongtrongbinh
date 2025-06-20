@@ -31,8 +31,6 @@ I'm a passionate **Full-Stack Developer** with over **2++ years of professional 
 ![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duongtrongbinh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duongtrongbinh&layout=compact&theme=radical)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=duongtrongbinh.duongtrongbinh)
-
 ---
 
 ## 🛠 Featured Projects
